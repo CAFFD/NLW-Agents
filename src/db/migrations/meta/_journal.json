@@ -29,6 +29,13 @@
       "when": 1752358796183,
       "tag": "0003_harsh_falcon",
       "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1752452063203,
+      "tag": "0004_sloppy_champions",
+      "breakpoints": true
     }
   ]
 }
