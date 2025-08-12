@@ -6,14 +6,6 @@ Este é um projeto Full-Stack desenvolvido durante a trilha NLW da Rocketseat. E
 
 ## 📦 Tecnologias Utilizadas
 
-### 💻 Front-end:
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Axios](https://axios-http.com/)
-- [React Router DOM](https://reactrouter.com/en/main)
-
 ### ⚙️ Back-end:
 - [Fastify](https://www.fastify.io/)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -47,15 +39,6 @@ npm run drizzle:push
 npm run dev
 ```
 
-### 💻 Frontend
-
-```bash
-cd frontend
-npm install
-cp .env.example .env
-npm run dev
-```
-
 ---
 
 ## 🌐 Funcionalidades
@@ -75,8 +58,8 @@ npm run dev
 **Gabriel Dadário**  
 Desenvolvedor Full-Stack em formação
 
-[🔗 LinkedIn](https://www.linkedin.com/in/seuusuario)  
-[🐙 GitHub](https://github.com/seuusuario)
+[🔗 LinkedIn](https://www.linkedin.com/in/gabriel-guarsoni-dadário-76a496264/)  
+[🐙 GitHub](https://github.com/CAFFD)
 
 ---
 
@@ -93,4 +76,4 @@ Desenvolvedor Full-Stack em formação
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT – sinta-se livre para usar, modificar e contribuir!
+Sinta-se livre para usar, modificar e contribuir!
